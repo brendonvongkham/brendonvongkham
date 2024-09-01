@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brendonvongkham
 - 👀 I’m interested in Web Development, Python, Machine Learning/AI
-- 🌱 I’m currently learning the Odin Project which incorporates Javascript
 - 💞️ I’m looking to collaborate on beginner projects at the moment, either with python or html/css
 - 📫 How to reach me: bvongkhamphanh@gmail.com
 
