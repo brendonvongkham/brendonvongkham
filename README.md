@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brendonvongkham
-- 👀 I’m interested in Web Development, Python, Machine Learning/AI
-- 💞️ I’m looking to collaborate on beginner projects at the moment, either with python or html/css
+- 👀 I’m interested in Web Development, Application Development, Game Development
+- 💞️ I’m looking to collaborate on beginner projects at the moment, either with javascript, java, or c#
 - 📫 How to reach me: bvongkhamphanh@gmail.com
 
 <!---
